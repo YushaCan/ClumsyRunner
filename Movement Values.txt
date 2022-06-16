@@ -1,0 +1,13 @@
+v1.0
+
+jump force => 230
+down force => 550 
+gravity modifier => 0.9
+mass => 50
+
+v1.1
+
+jump force => 400
+down force => 550
+gravity modifier => 1
+mass => 80
